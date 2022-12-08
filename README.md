@@ -63,4 +63,10 @@ Once the model is deployed and run it will include and save all the parameters, 
 
 ![dss image](img/6.png "Final results on Test Data")
 
+### Bibliography and Credits
 
+https://www.dataiku.com/
+
+https://community.dataiku.com/
+
+https://academy.dataiku.com/
